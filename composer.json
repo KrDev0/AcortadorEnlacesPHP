@@ -1,0 +1,18 @@
+{
+    "name": "shorcut/acortador-php",
+    "description": "Url shortener in PHP. Similar to bitly",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "",
+            "email": "support@krdev.site"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "shorcut\\": "shorcut/"
+        }
+    },
+    "require": {}
+}
